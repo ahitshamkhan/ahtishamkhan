@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ahitsham+Khan+%F0%9F%91%8B;Software+Engineer+%F0%9F%92%BB;MERN+Stack+Developer+%F0%9F%92%A5;AI%2FML+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%98%8A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ahitsham+Khan+%F0%9F%91%8B;Software+Engineer+%F0%9F%9A%80;Full-Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 
 <br/>
 
@@ -74,25 +74,27 @@ goal: "Build innovative solutions that impact millions globally"
 
 <div align="center">
 
-[![E-Commerce-MERN](https://github-readme-stats.vercel.app/api/pin/?username=ahitshamkhan&repo=E-Commerce-MERN&theme=github_dark&border_color=30363d)](https://github.com/ahitshamkhan/E-Commerce-MERN)
-&nbsp;
-[![AI-Chat-Bot](https://github-readme-stats.vercel.app/api/pin/?username=ahitshamkhan&repo=AI-Chat-Bot&theme=github_dark&border_color=30363d)](https://github.com/ahitshamkhan/AI-Chat-Bot)
-
-[![Portfolio-Website](https://github-readme-stats.vercel.app/api/pin/?username=ahitshamkhan&repo=Portfolio-Website&theme=github_dark&border_color=30363d)](https://github.com/ahitshamkhan/Portfolio-Website)
-&nbsp;
-[![Task-Manager](https://github-readme-stats.vercel.app/api/pin/?username=ahitshamkhan&repo=Task-Manager&theme=github_dark&border_color=30363d)](https://github.com/ahitshamkhan/Task-Manager)
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🛒 [E-Commerce-MERN](https://github.com/ahitshamkhan/E-Commerce-MERN) | Full-stack e-commerce platform | React, Node.js, MongoDB |
+| 💬 [AI-Chat-Bot](https://github.com/ahitshamkhan/AI-Chat-Bot) | Intelligent chatbot with AI capabilities | Python, ML, NLP |
+| 🎨 [Portfolio-Website](https://github.com/ahitshamkhan/Portfolio-Website) | Personal portfolio showcase | React, Tailwind CSS |
+| ✅ [Task-Manager](https://github.com/ahitshamkhan/Task-Manager) | Productive task management app | MERN Stack |
 
 </div>
 
 ---
 
-## GitHub Statistics
+## Key Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahitshamkhan&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahitshamkhan&layout=compact&theme=github_dark&hide_border=true)
+| Metric | Value |
+|--------|-------|
+| 💻 Total Repositories | 20+ |
+| 🌟 GitHub Stars | 100+ |
+| 🔥 Contributions | 500+ commits |
+| 📚 Languages | 8+ |
 
 </div>
 
